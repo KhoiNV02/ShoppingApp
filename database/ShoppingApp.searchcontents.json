@@ -1,0 +1,261 @@
+[{
+  "_id": {
+    "$oid": "6645d05a26434fa8d6f6571b"
+  },
+  "content": "Nồi cơm điện",
+  "hits": 1,
+  "normalizedContent": "noi com dien",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645d06626434fa8d6f6571e"
+  },
+  "content": "Máy rửa chén",
+  "hits": 1,
+  "normalizedContent": "may rua chen",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645d06f26434fa8d6f65721"
+  },
+  "content": "Máy rửa bát",
+  "hits": 5,
+  "normalizedContent": "may rua bat",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66460ed3128204aac43e4483"
+  },
+  "content": "Giày Nike",
+  "hits": 4,
+  "normalizedContent": "giay nike",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66460edf128204aac43e4486"
+  },
+  "content": "Giày thể thao",
+  "hits": 1,
+  "normalizedContent": "giay the thao",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66460eeb128204aac43e4489"
+  },
+  "content": "Quà sinh nhật",
+  "hits": 1,
+  "normalizedContent": "qua sinh nhat",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66460ef4128204aac43e448c"
+  },
+  "content": "Quà đặc biệt",
+  "hits": 1,
+  "normalizedContent": "qua dac biet",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66460efe128204aac43e448f"
+  },
+  "content": "Giày nữ",
+  "hits": 1,
+  "normalizedContent": "giay nu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66460f06128204aac43e4492"
+  },
+  "content": "Giày nam",
+  "hits": 2,
+  "normalizedContent": "giay nam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66460f8b91ecd3cdc2935e39"
+  },
+  "content": "Chạy bộ",
+  "hits": 1,
+  "normalizedContent": "chay bo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66460f9d91ecd3cdc2935e3c"
+  },
+  "content": "Quà giáng sinh",
+  "hits": 1,
+  "normalizedContent": "qua giang sinh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66460faa91ecd3cdc2935e3f"
+  },
+  "content": "Quà ý nghĩa",
+  "hits": 1,
+  "normalizedContent": "qua y nghia",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646104c91ecd3cdc2935e42"
+  },
+  "content": "Quà 20-11",
+  "hits": 1,
+  "normalizedContent": "qua 20-11",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646105791ecd3cdc2935e45"
+  },
+  "content": "Giày đẹp dáng sinh",
+  "hits": 1,
+  "normalizedContent": "giay dep dang sinh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646105d91ecd3cdc2935e48"
+  },
+  "content": "Giày giá rẻ",
+  "hits": 1,
+  "normalizedContent": "giay gia re",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646106c91ecd3cdc2935e4b"
+  },
+  "content": "Quà tốt nghiệp",
+  "hits": 2,
+  "normalizedContent": "qua tot nghiep",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646bd5e0ddee4306cbabba2"
+  },
+  "content": "May de ban",
+  "hits": 2,
+  "normalizedContent": "may de ban",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646bdd50ddee4306cbabbaa"
+  },
+  "content": "Giay",
+  "hits": 109,
+  "normalizedContent": "giay",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646bde50ddee4306cbabbae"
+  },
+  "content": "Noi",
+  "hits": 26,
+  "normalizedContent": "noi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646c1280ddee4306cbabbba"
+  },
+  "content": "Hoa",
+  "hits": 4,
+  "normalizedContent": "hoa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646c1f40ddee4306cbabbce"
+  },
+  "content": "Bat",
+  "hits": 1,
+  "normalizedContent": "bat",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646c4040ddee4306cbabbd8"
+  },
+  "content": "Hoak",
+  "hits": 1,
+  "normalizedContent": "hoak",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646c7af0ddee4306cbabbe5"
+  },
+  "content": "Com",
+  "hits": 1,
+  "normalizedContent": "com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646c90a0ddee4306cbabbed"
+  },
+  "content": "Rua chen",
+  "hits": 1,
+  "normalizedContent": "rua chen",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646c9200ddee4306cbabbf6"
+  },
+  "content": "Rua bat",
+  "hits": 1,
+  "normalizedContent": "rua bat",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471849155a30ebf08a183d"
+  },
+  "content": "Qua",
+  "hits": 1,
+  "normalizedContent": "qua",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6648bab566350b74d7f8a961"
+  },
+  "content": "Gi",
+  "hits": 1,
+  "normalizedContent": "gi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656c788fa0cfe684a20e70d"
+  },
+  "content": "No",
+  "hits": 1,
+  "normalizedContent": "no",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656d25ddedeb9694dec963a"
+  },
+  "content": "Giay n",
+  "hits": 1,
+  "normalizedContent": "giay n",
+  "__v": 0
+}]
